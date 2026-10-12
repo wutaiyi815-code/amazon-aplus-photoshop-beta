@@ -1,0 +1,30 @@
+{
+  "status": "passed",
+  "checks": [
+    "six-person contract accepted",
+    "native PSD and export dimensions",
+    "A/B identity overlap rejected",
+    "repeated solo source rejected",
+    "scene URL without actual input rejected",
+    "wrong module dimensions rejected",
+    "delivery checksums and resume",
+    "single SKU intake",
+    "existing workspace reinitialization rejected",
+    "native crop preserves source",
+    "reopen after crop passed",
+    "completed/unknown job duplicate planning rejected",
+    "unknown required job blocks delivery",
+    "revision retains previous delivery",
+    "updated rules isolate case versions",
+    "creator/main scene reuse rejected",
+    "custom width supported / mixed stacked widths rejected",
+    "all relative documentation links resolve",
+    "current scripts compile"
+  ],
+  "skill": "amazon-aplus-photoshop-beta",
+  "created_date": "2026-10-09",
+  "beta": "27.5.0 / photoshop-200.064",
+  "eagle_read_tools": 31,
+  "reference_snapshot_sha256": "d80b62807dcd39f46a7aa76f8d869a2d306f3889bec70574a14884044d68e044",
+  "public_release_sanitized": "2026-10-12"
+}

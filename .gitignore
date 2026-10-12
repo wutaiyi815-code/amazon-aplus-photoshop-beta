@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.log
+.env
+.venv/
+venv/
+.cache/
+output/
+过程文件/
+流程准备/
+Aplus_PSD_*/
+
